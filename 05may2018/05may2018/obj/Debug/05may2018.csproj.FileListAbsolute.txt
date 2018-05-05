@@ -1,0 +1,10 @@
+c:\users\p402\source\repos\05may2018\05may2018\bin\Debug\05may2018.exe.config
+c:\users\p402\source\repos\05may2018\05may2018\bin\Debug\05may2018.exe
+c:\users\p402\source\repos\05may2018\05may2018\bin\Debug\05may2018.pdb
+c:\users\p402\source\repos\05may2018\05may2018\obj\Debug\05may2018.csprojResolveAssemblyReference.cache
+c:\users\p402\source\repos\05may2018\05may2018\obj\Debug\_05may2018.Form1.resources
+c:\users\p402\source\repos\05may2018\05may2018\obj\Debug\_05may2018.Properties.Resources.resources
+c:\users\p402\source\repos\05may2018\05may2018\obj\Debug\05may2018.csproj.GenerateResource.Cache
+c:\users\p402\source\repos\05may2018\05may2018\obj\Debug\05may2018.csproj.CoreCompileInputs.cache
+c:\users\p402\source\repos\05may2018\05may2018\obj\Debug\05may2018.exe
+c:\users\p402\source\repos\05may2018\05may2018\obj\Debug\05may2018.pdb
